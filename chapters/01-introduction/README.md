@@ -14,8 +14,27 @@ After completing this chapter, you will be able to:
 
 ## 1. What is Data Analytics?
 
-(Content will be added.)
+Data Analytics is the process of collecting, cleaning, transforming, and analyzing data to discover useful insights that help businesses make better decisions.
 
+In today's world, every organization generates large amounts of data from websites, mobile applications, customer transactions, marketing campaigns, and business operations. Data Analytics helps convert this raw data into meaningful information.
+
+A Data Analyst uses tools such as SQL, Excel, Python, Pandas, and Power BI to analyze data and answer business questions.
+
+### Simple Example
+
+Imagine an online shopping company notices that sales have dropped over the last three months.
+
+A Data Analyst will investigate questions such as:
+
+- Which products have declining sales?
+- Which cities are generating the highest revenue?
+- Are discounts affecting profits?
+- Which customers are purchasing repeatedly?
+- Which marketing campaign performed best?
+
+By analyzing the available data, the analyst provides insights that help management make informed business decisions.
+
+> **Definition:** Data Analytics is the process of turning raw data into meaningful insights that support better decision-making.
 ---
 
 ## 2. Why Data Analytics Matters
